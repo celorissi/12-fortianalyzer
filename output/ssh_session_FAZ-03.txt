@@ -1,0 +1,7 @@
+FAZ-03 # FAZ-03 # diagnose dvm task repair
+This command will attempt to repair the task database while preserving existing data where possible.
+System will reboot in order to perform the repair.
+Do you want to continue? (y/n)y
+^J
+
+Rebooting...
